@@ -75,6 +75,7 @@ public class findMinMax {
 
         // Taking Input the array
         for (int i = 0; i < n; i++) {
+            System.out.println("Enter the value of array at index ["+i+"] : ");
             arr[i] = scan.nextInt();
         }
 
